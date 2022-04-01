@@ -15,29 +15,33 @@ If you like this repo, be sure to ⭐ it.
 - [Free Courses](#free-courses)
 - [Learning Platforms](#learning-platforms)
 
+
+
 ## 💼 Jobs and Internships
 
-| Role  |  Location |  Tags |
-|---|---|-------------|
-|[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago | Various Junior Developer Positions |
+| Role  |  Location |  Tags | Deadline
+|---|---|-------------|-------|
+|[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago | Various Junior Developer Positions | April 2nd |
 
 
-[⬆Back to top](#table-of-contents)
 
 ## 👩‍💻👩‍🎓 Bootcamps
 
-| Name  |  Description|
-|---|-----------------------------------|
-|[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago |
+| Name  |  Description|  Deadline
+|---|-------------------|-------|
+|[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago | April 2nd |
 
 
-[⬆Back to top](#table-of-contents)
+[Back to top](#table-of-contents)
+
+
 
 ## 📚 Free Courses
 
 | Name  |  Description|
 |---|-----------------------------------|
 |[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago |
+
 
 
 ## 🎨 Learning Platforms
@@ -47,5 +51,4 @@ If you like this repo, be sure to ⭐ it.
 |[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago |
 
 
-
-[⬆Back to top](#table-of-contents)
+[Back to top](#table-of-contents)
