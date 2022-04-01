@@ -24,7 +24,7 @@ If you like this repo, be sure to ⭐ it.
 
 [⬆Back to top](#table-of-contents)
 
-## 👩‍💻👨‍🎓👩‍🎓 Bootcamps
+## 👩‍💻👩‍🎓 Bootcamps
 
 | Name  |  Description|
 |---|-----------------------------------|
