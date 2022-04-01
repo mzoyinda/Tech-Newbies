@@ -22,6 +22,8 @@ If you like this repo, be sure to ⭐ it.
 | Role  |  Location |  Tags | Deadline
 |---|---|-------------|-------|
 |[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago | Various Junior Developer Positions | April 2nd |
+|[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago | Various Junior Developer Positions | April 2nd |
+|[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago | Various Junior Developer Positions | April 2nd |
 
 
 
@@ -30,6 +32,8 @@ If you like this repo, be sure to ⭐ it.
 | Name  |  Description|  Deadline
 |---|-------------------|-------|
 |[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago | April 2nd |
+|[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago | Various Junior Developer Positions | April 2nd |
+|[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago | Various Junior Developer Positions | April 2nd |
 
 
 [Back to top](#table-of-contents)
@@ -41,6 +45,8 @@ If you like this repo, be sure to ⭐ it.
 | Name  |  Description|
 |---|-----------------------------------|
 |[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago |
+|[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago |
+|[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago |
 
 
 
@@ -48,6 +54,8 @@ If you like this repo, be sure to ⭐ it.
 
 | Name  |  Description|
 |---|-----------------------------------|
+|[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago |
+|[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago |
 |[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago |
 
 
