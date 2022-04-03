@@ -21,6 +21,9 @@ If you like this repo, be sure to ⭐ it.
 
 | Role  |  Location |  Tags |
 |---|---|-------------|
+|[Software Engineer Intern](https://www.diversifytech.co/job-board/jYHxXBe5IF0tAU?ck_subscriber_id=1607619974&utm_source=convertkit&utm_medium=email&utm_campaign=Job+Alert+%28April+2%29%20-%207902952) | Remote-US | Detail oriented & cares about creating an exceptional user experience |
+|[PHP Software Engineer](https://www.diversifytech.co/job-board/jpmyk7wtAlHcA0?ck_subscriber_id=1607619974&utm_source=convertkit&utm_medium=email&utm_campaign=Job+Alert+%28April+2%29%20-%207902952) | Remote-US | Experience in modern PHP development. |
+|[Support Engineer](https://www.diversifytech.co/job-board/trIBnyi6NuZxxb?ck_subscriber_id=1607619974&utm_source=convertkit&utm_medium=email&utm_campaign=Job+Alert+%28April+2%29%20-%207902952) | Remote-US | Provide top-class support to customers, in terms of service and software functionality, incident resolution, and configuration |
 |[Product Manager](https://codersrank.homerun.co/product-manager/en?utm_source=CodersRank+-+coders&utm_campaign=a569e34343-20220324_PM_campaign&utm_medium=email&utm_term=0_aecf5642a9-a569e34343-69622609) | remote | 2years experience |
 |[Software Intern](mailto:Ogonna.Idia@blueadvisoryng.com) | Marina, Lagos | NYSC, Fresh graduates (HND, BSc) in computer sciences and related fields |
 |[Product Design Internship](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__dJmVytUM1ZBM1E5OElaOEpSUUwySURPTTRTRFNNRS4u) | Portharcout/Remote |on-the-job training for upcoming professional UI/UX Designers. |
