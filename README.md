@@ -37,6 +37,7 @@ If you like this repo, be sure to ⭐ it.
 |[Developer Advocate](https://iota.bamboohr.com/jobs/view.php?id=195) | remote | communicate on the latest advancements and technologies in IOTA and explain how they can be used |
 |[Front End Developer](https://native-land.ca/how-to-contribute/jobs/hiring-front-end-developer/) | remote | PHP, JavaScript, CSS, HTML, Git |
 
+Want to see more job openings??.. Check out this beautiful [Resource](https://docs.google.com/spreadsheets/d/12eXDKtkQVeVoTwn9pd_QYgP9WglLVuARkNYIG7V9oJk/edit#gid=0) by [@jasheloper](https://twitter.com/jasheloper), it consists of 100 entry level job positions in tech! and just like this resource, it also gets updated every week!🤩🤩💃  
 
 [⬆️ Back to top](#table-of-contents)
 
