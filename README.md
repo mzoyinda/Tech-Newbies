@@ -44,6 +44,7 @@ Want to see more job openings??.. Check out this beautiful [Resource](https://do
 
 | Name  |  Description|
 |---|-------------------|
+|[#Laptops4Developers](https://docs.google.com/forms/d/e/1FAIpQLSfOyF8lViqSNx3ARwtTP7b2fGoyJ0JYVNK3xnbF7Twef6bzjA/viewform) | free beginner's training in : Frontend, Backend, Cloud, Product Design |
 |[Zuri Training for tech beginners](https://training.zuri.team/) | A basic introduction to software development and product design aimed at complete beginners, which anyone can join|
 |[Free Data Analyst Bootcamp](https://upskilldigital.teamtailor.com/jobs/1652152-free-data-analyst-bootcamp) |8weeks fully funded Data Analyst training programme|
 |[Restart your Career with AWS-Training](https://lonadek.com/training/restart-your-career-with-aws/#1612853531016-279c1a37-6fc0) | a free, full-time skills development program to jump-start your career working in cloud computing. Technology background. |
